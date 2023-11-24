@@ -1,0 +1,21 @@
+.order-page {
+    display: flex;
+    grid-gap: 20px;
+}
+
+@media (max-width: 600px) {
+    .order-page {
+        flex-wrap: wrap;
+    }
+}
+
+.order-page__form-title {
+    margin: 0 0 10px 0;
+}
+
+.order-page__form-input {
+    border: none;
+    border-radius: 15px;
+    width: 100%;
+    padding: 10px 15px;
+}

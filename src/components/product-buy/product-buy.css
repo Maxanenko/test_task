@@ -1,0 +1,7 @@
+.product-buy {
+    display: flex;
+}
+
+.product-buy__price {
+    margin: 0 10px 0 0;
+}

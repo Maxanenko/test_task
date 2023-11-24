@@ -1,0 +1,8 @@
+.product-image {
+    height: 170px;
+    width: 100%;
+    min-height: 300px;
+    border-radius: 15px;
+    background-size: cover;
+    background-position: center;
+}
